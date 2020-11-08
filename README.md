@@ -1,4 +1,4 @@
-# BLUETOOTH-4.0-LOCK-arduino-application-dissertation-project-for-engineer-degree-
+# BLUETOOTH-4.0-LOCK-arduino-application-bachelor-degree-project
 BLUETOOTH 4.0 LOCK arduino project - works as a peripherial device that cooperates with
 designated android application and drives a relay. 
 
